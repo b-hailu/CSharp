@@ -1,0 +1,11 @@
+C:\Users\bhail\MyREpo\Myhomework\bin\Debug\netcoreapp2.2\Myhomework.deps.json
+C:\Users\bhail\MyREpo\Myhomework\bin\Debug\netcoreapp2.2\Myhomework.runtimeconfig.json
+C:\Users\bhail\MyREpo\Myhomework\bin\Debug\netcoreapp2.2\Myhomework.runtimeconfig.dev.json
+C:\Users\bhail\MyREpo\Myhomework\bin\Debug\netcoreapp2.2\Myhomework.dll
+C:\Users\bhail\MyREpo\Myhomework\bin\Debug\netcoreapp2.2\Myhomework.pdb
+C:\Users\bhail\MyREpo\Myhomework\obj\Debug\netcoreapp2.2\Myhomework.csprojAssemblyReference.cache
+C:\Users\bhail\MyREpo\Myhomework\obj\Debug\netcoreapp2.2\Myhomework.csproj.CoreCompileInputs.cache
+C:\Users\bhail\MyREpo\Myhomework\obj\Debug\netcoreapp2.2\Myhomework.AssemblyInfoInputs.cache
+C:\Users\bhail\MyREpo\Myhomework\obj\Debug\netcoreapp2.2\Myhomework.AssemblyInfo.cs
+C:\Users\bhail\MyREpo\Myhomework\obj\Debug\netcoreapp2.2\Myhomework.dll
+C:\Users\bhail\MyREpo\Myhomework\obj\Debug\netcoreapp2.2\Myhomework.pdb
